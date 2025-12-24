@@ -1,0 +1,29 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+.env
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Build
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
